@@ -1,0 +1,30 @@
+beer_id,name,type,ABV
+1,Sierra Nevada Pale Ale,Pale Ale,5.60
+2,Newcastle Brown Ale,Brown Ale,4.70
+3,Samuel Adams Boston Lager,Lager,4.75
+4,Heineken,Lager,5.00
+5,Guiness Draught,Dry Stout,4.30
+6,Guiness Extra Stout,Dry Stout,5.00
+7,Coors Banquet,Lager,5.00
+8,Coors Light,Light Lager,4.20
+9,Keystone Ice,Lager,5.90
+10,Keystone Light,Light Lager,4.90
+11,Budweiser,Lager,5.00
+12,Bud Light,Light Lager,4.20
+13,Rolling Rock,Pale Lager,4.50
+14,Busch,Pale Lager,4.50
+15,Shock Top,Wheat Ale,5.20
+16,Natural Light,Pale Lager,4.20
+17,Corona Extra,Pale Lager,4.50
+18,Pacifico,Pale Lager,4.50
+19,Modelo Light,Light Lager,4.00
+20,Pabst Blue Ribbon,Lager,5.20
+21,Old Milwaukee,Pale Lager,4.60
+22,Rainier,Pale Ale,4.60
+23,Fat Tire,Amber Ale,5.20
+24,Ranger IPA,IPA,6.50
+25,Slow Ride,IPA,4.50
+29,Samuel Adams Rebel IPA,IPA,6.50
+37,Black Butte Porter,Porter,5.20
+38,Mirror Pond Pale Ale,Pale Ale,5.00
+39,Obsidian Stout,American Stout,6.40

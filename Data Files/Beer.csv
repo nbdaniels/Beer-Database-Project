@@ -1,0 +1,47 @@
+beer_id,brew_id,name
+1,7,Sierra Nevada Pale Ale
+2,5,Newcastle Brown Ale
+3,8,Samuel Adams Boston Lager
+4,5,Heineken
+5,12,Guiness Draught
+6,12,Guiness Extra Stout
+7,1,Coors Banquet
+8,1,Coors Light
+9,1,Keystone Ice
+10,1,Keystone Light
+11,2,Budweiser
+12,2,Bud Light
+13,2,Rolling Rock
+14,2,Busch
+15,2,Shock Top
+16,2,Natural Light
+17,3,Corona Extra
+18,3,Pacifico
+19,3,Modelo Light
+20,4,Pabst Blue Ribbon
+21,4,Old Milwaukee
+22,4,Rainier
+23,6,Fat Tire
+24,6,Ranger IPA
+25,6,Slow Ride
+26,7,Narwhal Imperial Stout
+27,7,Oktoberfest
+29,8,Samuel Adams Rebel IPA
+30,9,Dawn of the Red
+31,9,Easy Way IPA
+32,9,Noir
+33,9,Oatis
+34,9,Total Domination IPA
+35,9,Velocihoptor
+36,10,Fresh Squeezed IPA
+37,10,Black Butte Porter
+38,10,Mirror Pond Pale Ale
+39,10,Obsidian Stout
+40,10,Jubelale
+41,11,Overcast Espresso Stout
+42,11,Line Dry Rye IPA
+43,11,The Perfect Storm
+44,13,Dreadnut Export Stout
+45,13,Polar Melt Pale Ale
+46,13,Daywalker Irish Red
+47,13,Pub Life IPA
